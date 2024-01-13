@@ -5,6 +5,6 @@ Ergonomic, efficient date processing
 
 |---------+------------------------------------------------|
 | source  | git:https://git.sr.ht/~fosskers/cl-transducers |
-| commit  | f10c511                                        |
+| commit  | 4a3c44e                                        |
 | systems | transducers                                    |
 |---------+------------------------------------------------|
