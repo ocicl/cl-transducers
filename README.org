@@ -1,10 +1,9 @@
 * cl-transducers
 
-Ergonomic, efficient date processing
+Ergonomic, efficient data processing
 
-
-|---------+------------------------------------------------|
-| source  | git:https://git.sr.ht/~fosskers/cl-transducers |
-| commit  | 8a964ea                                        |
-| systems | transducers                                    |
-|---------+------------------------------------------------|
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/fosskers/cl-transducers.git |
+| commit  | da081b7                                            |
+| systems | transducers                                        |
+|---------+----------------------------------------------------|
