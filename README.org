@@ -4,6 +4,6 @@ Ergonomic, efficient data processing
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/fosskers/cl-transducers.git |
-| commit  | 6de8348                                            |
+| commit  | 7e4bd34                                            |
 | systems | transducers                                        |
 |---------+----------------------------------------------------|
